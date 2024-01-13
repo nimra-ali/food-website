@@ -1,0 +1,57 @@
+.sharing-main{
+    width: 99%;
+    /* height: 100vh; */
+    /* border: 1px solid black; */
+}
+.sharing-main-content{
+    width: 78%;
+    height: 500px;
+    margin-left: 10%;
+    display: flex;
+    gap: 30px;
+    /* border: 1px solid black; */
+}
+.sharing-picture{
+    width: 380px;
+    height: 406px;
+    border-radius: 
+    8px, 0px, 0px, 8px;
+    /* border: 1px solid black; */
+
+}
+.sharing-content{
+    width: 600px;
+    height: 250px;
+    margin-top: 2%;
+    /* border: 1px solid black; */
+
+}
+.share-para{
+    font-weight: 500;
+    font-size: 48px;
+    text-align: center;
+    line-height: 56.25px;
+
+}
+.share-lorem-p{
+    color: #878787;
+    font-weight: 400;   
+font-size: 20px;
+text-align: center;
+line-height: 32px;
+
+}
+.create-btn{
+    size: small;
+    height: 45px;
+    border-radius: 8px;
+    padding: 2px 10px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000;
+    border: none;
+    color: #EBEBEB;
+    background-color: 
+    #B55D51; 
+    margin-left: 42%;
+}

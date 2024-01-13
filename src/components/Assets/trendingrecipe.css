@@ -1,0 +1,82 @@
+.main-trending{
+    width: 80%;
+    height: 100vh;
+    margin-left: 10%;
+    /* border: 1px solid black; */
+}
+.trending-heading{
+ color: #000;
+ font-weight: 500;
+ font-size: 40px;
+ line-height: 44px;   
+}
+.trending-main-section{
+    width: 100%;
+    height: 520px;
+    /* border: 1px solid black; */
+}
+.viewmorediv{
+    display: flex;
+    justify-content: end;
+    /* padding-bottom: 20px; */
+    /* margin-top: -14px; */
+}
+.viewmorebtn{
+    border: none;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28.13px;
+    color: 
+    #B55D51;
+    margin-top: -4%;
+}
+.trendingcard-one{
+    width: 100%;
+    height: 258px;
+    display: flex;
+    justify-content: space-between;
+    
+    /* border: 1px solid black; */
+
+}
+.trendingcard-main1{
+    width: 260px;
+    height: 270px;
+    border-radius:8px;
+    border: 1px solid 
+    #EBEBEB;
+}
+.imgsize{
+    width: 260px;
+}
+.onionring{
+    font-weight: 400;
+    font-size: 18px;
+    color: #000;
+    line-height: 28px;
+    margin-top: 3px;
+    padding-left: 10px;
+}
+.usersmain{
+    width: 240px;
+    height: 30px;
+    /* border: 1px solid black; */
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -10px;
+}
+.alexmartin{
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+    padding-left: 7px;
+    margin-top: 6px;
+}
+.firebtn{
+font-weight: 400;
+font-size: 14px;
+color: 
+#878787;
+/* padding-left: 8px; */
+}

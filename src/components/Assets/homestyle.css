@@ -1,0 +1,120 @@
+body {
+    background-image: url(../Assets/images/Color.png);
+    background-repeat: no-repeat;
+background-size: auto 92%;
+    background-position: 99.77% 0; 
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.homesectionmain{
+    width: 100%;
+    height: 100vh;
+}
+.navbar{
+width:79%;
+height: 80px;
+margin-top: 25px;
+margin-left: 10%;
+display: flex;
+justify-content: space-between;
+/* border: 1px solid black; */
+}
+.homelogoone{
+    display: flex;
+}
+
+.perfectrecipe{
+    margin-top: -32px;
+}
+.perfect-p{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 35px;
+    /* font-family: 'Roboto'; */
+color: 
+#000000;
+}
+.RECIPESPAN{
+    color: 
+    #B55D51;
+}
+.homelogotwo{
+margin-left: -5%;
+margin-top: -4.66px;
+}
+.home-li{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21.09px;
+    color: #000;
+}
+.homelogthree{
+display: flex;
+gap: 20px;
+margin-top: 4px;
+}
+.login{
+    size: small;
+    border-radius: 8px;
+    padding: 0px 20px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000;
+    border: none;
+    background-color: #EBEBEB;
+}
+.signup{
+    size: small;
+    border-radius: 8px;
+    padding: 0px 20px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000;
+    border: none;
+    color: #EBEBEB;
+    background-color: 
+    #B55D51;
+}
+.mainsection-home{
+    width: 80%;
+    height: 532px;
+    display: flex;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.content-heading{
+    font-weight: 700;
+    font-size:55px;
+    line-height: 75px;
+    color: #000;
+}
+.lorem-para{
+    color: #878787;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: -30px;
+
+}
+.have-account{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #878787;
+
+}
+.signup-large{
+    size: large;
+    height: 45px;
+    border-radius: 8px;
+    padding: 2px 46px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000;
+    border: none;
+    color: #EBEBEB;
+    background-color: 
+    #B55D51; 
+}
